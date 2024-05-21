@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@headlessui/react": "^2.0.3",
+    "react-responsive-carousel": "^3.2.23"
+  }
+}
